@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.6"?>
+
+<target name="Platform" sequenceNumber="1">
+<locations>
+<location includeAllPlatforms="false" includeMode="planner" includeSource="true" type="InstallableUnit">
+<unit id="org.eclipse.equinox.executable.feature.group" version="3.5.1.v20111216-1653-7P7NFUIFIbaUcU77s0KQWHw5HZTZ"/>
+<repository location="http://download.eclipse.org/releases/indigo/"/>
+</location>
+<location includeAllPlatforms="false" includeMode="planner" includeSource="true" type="InstallableUnit">
+<unit id="org.eclipse.rcp.sdk.id" version="3.7.2.M20120208-0800"/>
+<repository location="http://download.eclipse.org/releases/indigo/"/>
+</location>
+</locations>
+</target>
